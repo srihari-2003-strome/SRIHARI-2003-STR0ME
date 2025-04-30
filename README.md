@@ -35,4 +35,4 @@ I specialize in converting complex data into clear, actionable insights to drive
 
 ---
 
-![GitHub Stats](https://github.com/srihari-2003-strome)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srihari-2003-strome&show_icons=true&theme=default)
